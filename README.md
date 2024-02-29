@@ -68,7 +68,3 @@ To interact with the file server, use HTTP requests to the provided endpoints. Y
 ## Note
 
 THIS FILESERVER IS NOT INTENDED FOR BEING USED IN PRODUCTION ENVIRONMENTS SINCE IT'S EXPOSES ENDPOINTS WHICH ARE NOT SECURE, USE AT OWN RISK. IT'S ONLY A FUN PROJECT OF MINE!
-
-## Acknowledgements
-
-Special thanks to all contributors and users of the Milkyteadrop Fileserver project.
