@@ -64,9 +64,6 @@ The file server uses a default root path defined as `/usr/local/bin/milkyteadrop
 
 To interact with the file server, use HTTP requests to the provided endpoints. You can use tools like `curl` or Postman, or integrate the API calls into your application.
 
-## Contributing
-
-I welcome contributions to the Milkyteadrop Fileserver!
 
 ## Note
 
